@@ -1,6 +1,6 @@
 # ProgrammingAssignment2
-## makeVector
- makeVector <- function(x = numeric()) {        m <- NULL
+## makeVector <- function(x = numeric()) {
+        m <- NULL
         set <- function(y) {
                 x <<- y
                 m <<- NULL
