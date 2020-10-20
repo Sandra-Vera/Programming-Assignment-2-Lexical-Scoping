@@ -1,6 +1,5 @@
 # ProgrammingAssignment2
-##
-makeVector <- function(x = numeric()) {
+## makeVector <- function(x = numeric()) {
         m <- NULL
         set <- function(y) {
                 x <<- y
@@ -13,6 +12,7 @@ makeVector <- function(x = numeric()) {
              setmean = setmean,
              getmean = getmean)
 }
+
 
 cachemean <- function(x, ...) {
         m <- x$getmean()
