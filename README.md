@@ -1,4 +1,4 @@
-# Programming-Assignment-2-Lexical-
+# ProgrammingAssignment2
 ## A pair of functions that cache the inverse of a matrix
 
 
